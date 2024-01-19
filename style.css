@@ -3,6 +3,7 @@
 }
 
 .popup-wrapper {    
+    display: block;
     background: rgba(0, 0, 0, 0.5);
     position: fixed;
     left: 0;
@@ -49,3 +50,9 @@
     padding: 0.5em 6em;
 }
 
+.popup-close {
+    position: absolute;
+    cursor: pointer;
+    right: 5%;
+    top: 5%;
+}
