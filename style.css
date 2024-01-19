@@ -56,3 +56,8 @@
     right: 5%;
     top: 5%;
 }
+
+.popup-link {
+    text-decoration: none;
+    color: white;
+}
